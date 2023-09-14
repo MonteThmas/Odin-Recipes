@@ -1,0 +1,29 @@
+*{
+    background-color: black;
+    color: white;
+    font-family: fantasy;
+}
+
+h1{
+    text-align: center;
+    font-size: 50px;
+}
+
+.header-img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.container{
+    text-align: center;
+}
+
+ul.homeUL{
+    display: inline-block;
+    text-align: left;
+}
+
+.homeListContainer li{
+    font-size: 24px;
+}
